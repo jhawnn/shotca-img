@@ -1,0 +1,2 @@
+# shotca-img
+images
